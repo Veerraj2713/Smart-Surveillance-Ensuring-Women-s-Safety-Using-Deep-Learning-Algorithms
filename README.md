@@ -201,13 +201,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/Veerraj2713/Smart-Surveillance-Ensuring-Women-s-Safety-Using-Deep-Learning-Algorithms/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/Veerraj2713/Smart-Surveillance-Ensuring-Women-s-Safety-Using-Deep-Learning-Algorithms/discussions)
-- **Email**: [Your Contact Email]
+- **Email**: chitragarveerraj@gmail.com
 
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Veerraj2713/Smart-Surveillance-Ensuring-Women-s-Safety-Using-Deep-Learning-Algorithms&type=Date)](https://star-history.com/#Veerraj2713/Smart-Surveillance-Ensuring-Women-s-Safety-Using-Deep-Learning-Algorithms&Date)
-
----
 
 <div align="center">
 
