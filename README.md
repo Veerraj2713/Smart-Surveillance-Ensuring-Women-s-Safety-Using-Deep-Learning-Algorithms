@@ -215,6 +215,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Made with ❤️ for a safer world*
 
-[🔗 Live Demo](https://your-demo-link.com) | [📖 Documentation](https://your-docs-link.com) | [🐛 Report Bug](https://github.com/Veerraj2713/Smart-Surveillance-Ensuring-Women-s-Safety-Using-Deep-Learning-Algorithms/issues)
+[📖 Documentation](ML_Cp.pdf) | [🐛 Report Bug](https://github.com/Veerraj2713/Smart-Surveillance-Ensuring-Women-s-Safety-Using-Deep-Learning-Algorithms/issues)
 
 </div>
